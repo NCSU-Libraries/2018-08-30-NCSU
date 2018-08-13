@@ -121,7 +121,7 @@ and our administrator may contact you if we need any extra information.</h4>
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements: REGISTRATION IS REQUIRED, and can be completed at <a href="https://apaas-accp.mendixcloud.com/link/courseview?courseID=LIB-WORKS-SFTCARP&deptName=LIB">this link.</a></strong> Participants must bring a laptop with a
+  <strong>Requirements: REGISTRATION IS REQUIRED, and can be completed at <a href="https://reporter.ncsu.edu/link/courseview?courseID=LIB-WORKS-SFTCARP&deptName=LIB">this link.</a></strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
   on. They should have a few specific software packages installed (listed
   <a href="#setup">below</a>). They are also required to abide by
