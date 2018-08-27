@@ -297,6 +297,9 @@ and our administrator may contact you if we need any extra information.</h4>
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
+  Several datasets will be used in the course of instruction. <a href="https://drive.google.com/drive/folders/1FltRDgSeaE57D2vi-_0P5csgtfnnEbKN?usp=sharing">This Google Folder</a> has all the files you'll need, along with the shared Google document we'll use during the course. 
+</p>
+<p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
